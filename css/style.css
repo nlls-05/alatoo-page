@@ -1,0 +1,81 @@
+/* CSS code */
+body {
+  background-color: #0D3A5F; /* Dark blue background for the entire page */
+  padding: 20px; /* Add some padding */
+}
+
+.promo {
+  border: 5px solid black; /* Complete border */
+  width: 80%; 
+  border-radius: 15px; /* Rounded border */
+  margin: 0 auto; /* Center the promo */
+  max-width: 600px;
+  font-family: Arial, sans-serif; /* Font family */
+}
+
+
+.logo {
+  text-align: center; /* Center the logo */
+  padding: 10px; /* Add some padding */
+  background-color: orange;
+}
+
+.title {
+  text-align: center; /* Center the title */
+  background-color: orange; /* Light gray background */
+  padding: 10px; /* Add some padding */
+  color: #333; /* Dark gray text */
+}
+
+.intro {
+  padding: 10px; /* Add some padding */
+  line-height: 1.5; /* Add some space between lines */
+  background-color: orange;
+
+}
+
+.facilities {
+  padding: 3px; /* Add some padding */
+
+  background-color: orange; /* Light gray background */
+}
+
+.staff {
+  padding: 10px; /* Add some padding */
+  background-color: orange;
+
+}
+
+.link {
+  padding: 10px; /* Add some padding */
+  text-align: center; /* Center the link */
+  background-color: orange;
+}
+
+h1 {
+  margin: 0; /* Remove default margins */
+  background-color: orange;
+
+}
+
+p, ul {
+  margin: 10px 0; /* Add some margins */
+  background-color: orange;
+
+}
+
+a {
+  color: #333; /* Dark gray link */
+  text-decoration: none; /* Remove underline */
+  background-color: orange;
+
+}
+
+a:hover {
+  color: #000; /* Black link on hover */
+  text-decoration: underline; /* Add underline on hover */
+}
+h1{
+  color:#0D3A5F
+}
+/* Additional Customizations */
