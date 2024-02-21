@@ -1,81 +1,77 @@
-/* CSS code */
-body {
-  background-color: #0D3A5F; /* Dark blue background for the entire page */
-  padding: 20px; /* Add some padding */
+/* body {
+  background-color: #0D3A5F;
+  padding: 20px; 
 }
 
 .promo {
-  border: 5px solid black; /* Complete border */
+  border: 5px solid black;
   width: 80%; 
-  border-radius: 15px; /* Rounded border */
-  margin: 0 auto; /* Center the promo */
+  border-radius: 15px; 
+  margin: 0 auto; 
   max-width: 600px;
-  font-family: Arial, sans-serif; /* Font family */
+  font-family: Arial, sans-serif; 
 }
 
 
 .logo {
-  text-align: center; /* Center the logo */
-  padding: 10px; /* Add some padding */
+  text-align: center; 
+  padding: 10px; 
   background-color: orange;
 }
 
 .title {
-  text-align: center; /* Center the title */
-  background-color: orange; /* Light gray background */
-  padding: 10px; /* Add some padding */
-  color: #333; /* Dark gray text */
+  text-align: center;
+  background-color: orange; 
+  padding: 10px;
+  color: #333; 
 }
 
 .intro {
-  padding: 10px; /* Add some padding */
-  line-height: 1.5; /* Add some space between lines */
+  padding: 10px;
+  line-height: 1.5; 
   background-color: orange;
 
 }
 
 .facilities {
-  padding: 3px; /* Add some padding */
-
-  background-color: orange; /* Light gray background */
-}
+  padding: 3px; 
+  background-color: orange; 
 
 .staff {
-  padding: 10px; /* Add some padding */
+  padding: 10px; 
   background-color: orange;
 
 }
 
 .link {
-  padding: 10px; /* Add some padding */
-  text-align: center; /* Center the link */
+  padding: 10px;
+  text-align: center; 
   background-color: orange;
 }
 
 h1 {
-  margin: 0; /* Remove default margins */
+  margin: 0; 
   background-color: orange;
 
 }
 
 p, ul {
-  margin: 10px 0; /* Add some margins */
+  margin: 10px 0; 
   background-color: orange;
 
 }
 
 a {
-  color: #333; /* Dark gray link */
-  text-decoration: none; /* Remove underline */
+  color: #333;
+  text-decoration: none; 
   background-color: orange;
 
 }
 
 a:hover {
-  color: #000; /* Black link on hover */
-  text-decoration: underline; /* Add underline on hover */
+  color: #000; 
+  text-decoration: underline; 
 }
 h1{
   color:#0D3A5F
-}
-/* Additional Customizations */
+} */
